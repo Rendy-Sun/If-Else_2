@@ -1,0 +1,4 @@
+﻿  Studi_Kasus.cpp
+E:\Project C++\Visual Studio\Studi_Kasus\Studi_Kasus\Studi_Kasus.cpp(18,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Project C++\Visual Studio\Studi_Kasus\Studi_Kasus\Studi_Kasus.cpp(21,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Studi_Kasus.vcxproj -> E:\Project C++\Visual Studio\Studi_Kasus\x64\Debug\Studi_Kasus.exe
